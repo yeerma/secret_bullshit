@@ -1,6 +1,6 @@
 
 --[[ 
-    NIGGER OBFUSCATION BY OOOGA (im black btw)
+    NIGGER OBFUSCATION BY OOOGA (im black btw i think)
 ]]
 
 local NIGGER = string.char
@@ -20,3 +20,4 @@ for NIGGER__ = 1, #NIG_GER do
 end
 
 NIGGER_(_NIGGER(_NIG_GER_))()
+
